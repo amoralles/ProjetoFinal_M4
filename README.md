@@ -56,12 +56,28 @@ da gasolina tiveram uma de queda ou diminuição?
 ---
 ### Estrutura do projeto 🏗️:
 
-![Estrutura do Google Colab.](https://drive.google.com/file/d/1S45ihng-RjV_TbjMb1B83oITJfDwQesx/view?usp=sharing)
+- **Estrutura do Google Colab:**
 
-- Para a execução de nosso notebook e criação de análises, utilizamos o Google Colab;
-- Cada escopo do trabalho foi separado corretamente dentre seus objetivos, auxiliando na organização e melhor entendimento da análise que foi realizada;
-- **Vantagens:**
-	- Além de ser uma ferramenta com a qual desenvolvemos familiaridade ao longo do módulo, permite fácil integração com o GitHub, auxiliando no versionamento do código.
+![Estrutura do Google Colab.](https://github.com/amoralles/ProjetoFinal_M4/blob/main/images/estrutura.png?raw=true)
+
+- **Execução:**
+	- Para a **execução de nosso notebook** e criação de análises, utilizamos o **<font  color="#F9AB00">Google</font> <font  color="#E8710A">Colab</font>**;
+	- Cada escopo do trabalho foi **separado corretamente** dentre seus objetivos, auxiliando na organização e melhor entendimento da análise que foi realizada;
+		- **Vantagens**:
+			- Além de ser uma ferramenta com a qual desenvolvemos **familiaridade** ao longo do módulo, permite **fácil integração com o GitHub**, auxiliando no versionamento do código.
+
+- **Planejamento:**
+	- Utilizamos o **<font color = "#2584FF">Jira</font>** como ferramenta de gestão para nossa sprint.
+		- **Vantagens:**
+			- Cada **requisito pré-estabelecido** anteriormente, foi concebido como um "**Épico**". Dentro de cada épico, inserimos as **atividades** que precisavam **ser desenvolvidas**, e definimos quem seria a responsável por realizar aquela **tarefa**.
+			
+- **Épicos da sprint:**
+			
+![Épicos da sprint](https://github.com/amoralles/ProjetoFinal_M4/blob/main/images/epicos.png?raw=true)
+
+- **Exemplo de Tasks do Épico Jupyter Notebook ou Colab:**
+
+![Exemplo de Tasks do Épico Jupyter Notebook ou Colab](https://github.com/amoralles/ProjetoFinal_M4/blob/main/images/tasks.png?raw=true)
 ---
 ### Apresentação ✨:
 
