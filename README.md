@@ -56,7 +56,13 @@ da gasolina tiveram uma de queda ou diminuição?
 ---
 ### Estrutura do projeto 🏗️:
 
+![Estrutura do Google Colab.](https://drive.google.com/file/d/1S45ihng-RjV_TbjMb1B83oITJfDwQesx/view?usp=sharing)
+
+- Para a execução de nosso notebook e criação de análises, utilizamos o Google Colab;
+- Cada escopo do trabalho foi separado corretamente dentre seus objetivos, auxiliando na organização e melhor entendimento da análise que foi realizada;
+- **Vantagens:**
+	- Além de ser uma ferramenta com a qual desenvolvemos familiaridade ao longo do módulo, permite fácil integração com o GitHub, auxiliando no versionamento do código.
 ---
 ### Apresentação ✨:
 
-O link de nossa apresentação se encontra disponível aqui.
+O link de nossa apresentação se encontra disponível [aqui](https://www.canva.com/design/DAFOA2HIJag/5AsIy-6c684z3AHzmPDAgg/view?utm_content=DAFOA2HIJag&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
